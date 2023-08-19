@@ -3,4 +3,4 @@
  
 # Other Contributor
  
-  Abdur Rahim https://github.com/Rahim-aust
+ - Abdur Rahim https://github.com/Rahim-aust
