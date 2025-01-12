@@ -3,7 +3,8 @@
 # Other Contributor
  
  - Abdur Rahim https://github.com/Rahim-aust
-
+# Tools and Technology:
+- Android Studio, Java , Firebase
 # Short Description :
 
 It is a mobile-based android app. A customer can book seat and check ticker availablity. It has features like bus selection and online payments. It also includes features like user details, bus details, reservation information. 
