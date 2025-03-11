@@ -4,6 +4,7 @@ public class Bus {
     String busId,from,to,date,times;
     public Bus()
     {
+        // Constructor
 
     }
     public Bus(String busId, String from, String to, String date, String times) {
